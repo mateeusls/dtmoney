@@ -6,8 +6,6 @@
   <a href="#memo-licença">Licença</a>
 </p>
 
-<br>
-
 <h1>Projeto</h1>
 <p>O dt money é uma aplicação para gerenciar suas finanças, cadastrado seus ganhos e gastos.</p>
 <p align="center">
